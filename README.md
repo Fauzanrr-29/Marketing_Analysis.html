@@ -8,5 +8,9 @@ NOTE : IF YOU WANT TO SEE THE FILE IN HTML FORMAT, PLEASE DOWNLOAD IT FIRST TO S
 ## Dataset Source
 - [Marketing Funnel by Olist](https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist)
 
+## Tools Used
+-R studio
+
+
 ##  Output
 - `Marketing_Analysis.html` – rendered report from R Markdown
